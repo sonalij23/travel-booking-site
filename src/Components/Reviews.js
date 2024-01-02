@@ -70,7 +70,7 @@ const Reviews = ({ tour }) => {
     };
     fetchDate();
     setProductId(tour.id);
-   user? setUserName(user.displayName):'';
+    setUserName(user ? user.displayName : '');
   };
 
   useEffect(() => {
