@@ -21,7 +21,7 @@ const images = [
 
 const Gallery = () => {
   return (
-    <div className="px-5 mt-24 md:px-24">
+    <div className="px-5 mt-24 md:px-24 " id="Gallery">
       <div className="text-left mb-14">
         <span className="inline-block md:p-2 p-1 text-[8px] md:text-base bg-primary-color rounded-3xl">
           Gallery

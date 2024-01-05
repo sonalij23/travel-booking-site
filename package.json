@@ -1,4 +1,5 @@
 {
+  "homepage": "http://sonali0423.github.io/",
 
   "name": "travel-booking-site",
 
@@ -37,6 +38,10 @@
   "scripts": {
 
     "start": "react-scripts start",
+    
+    "predeploy": "npm run build",
+    
+    "deploy": "gh-pages -d build",
 
     "build": "react-scripts build",
 
