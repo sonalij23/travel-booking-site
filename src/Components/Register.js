@@ -32,7 +32,7 @@ const Register = () => {
   return (
     <div className="min-h-screen">
       <div className="flex items-center justify-center w-full h-full my-32">
-        <div className="flex w-full mx-5 md:w-3/5 md:h-1/3 md:mx-0">
+        <div className="flex w-full mx-5 shadow-2xl md:w-3/5 md:h-1/3 md:mx-0">
           <div className="flex justify-center w-3/5 ">
             <img className="w-40 h-40 mt-16 sm:mt-10 sm:w-56 sm:h-56 md:w-96 md:h-96 md:mt-0" src={register} alt="register" />
           </div>

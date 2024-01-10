@@ -12,7 +12,7 @@ const ProductCard = ({ tour, rating }) => {
     navigate("/book", { state: { tour, rating } });
   };
   return (
-    <div className="rounded-sm" key={tour.id}>
+    <div className="rounded-sm shadow-2xl" key={tour.id}>
       <div className="relative ">
         <img
           className="object-cover w-full md:h-40"

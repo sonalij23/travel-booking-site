@@ -2,7 +2,7 @@ import React from "react";
 import { SlLocationPin } from "react-icons/sl";
 import { AiOutlineMail } from "react-icons/ai";
 import { BsTelephone } from "react-icons/bs";
-import logo from "../images/logo.png";
+import logo from "../images/logo2.png";
 import { useNavigate } from "react-router-dom";
 import { Link, scroller } from "react-scroll";
 

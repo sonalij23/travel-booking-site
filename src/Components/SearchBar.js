@@ -30,7 +30,7 @@ const SearchBar = () => {
   return (
     <div className=" mt-14 md:mt-24">
       <div className="md:mr-24 2xl:mr-0 lg:w-11/12 xl:w-9/12 2xl:w-3/5" >
-        <div className="flex flex-col pt-1 mx-4 border-2 border-solid rounded-md md:mx-0 md:rounded-full md:flex-row md:pt-2 md:pb-2 lg:pb-5 md:ml-10 slg:ml-20 ml:10">
+        <div className="flex flex-col pt-1 mx-4 rounded-md shadow-2xl md:mx-0 md:rounded-full md:flex-row md:pt-2 md:pb-2 lg:pb-5 md:ml-10 slg:ml-20 ml:10">
           <div className="flex mx-4 my-2 text-center md:my-0">
             <SlLocationPin className="mt-1 mr-1 text-xs md:mr-4 lg:text-base text-secondary-color" />
             <div>

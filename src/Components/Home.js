@@ -61,7 +61,6 @@ const Home = () => {
       </div>
 
       <SearchBar />
-
       <BestServices />
       <FeaturedTours />
       <Experience />
