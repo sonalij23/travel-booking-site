@@ -1,7 +1,9 @@
 Travel Booking Site
+
 Welcome to the Travel Booking Site, a web application built using React, Tailwind CSS, Firebase Authentication, and Firestore database. This platform allows users to explore and book tours based on different locations. Users can also leave reviews for the tours they've experienced.
 
 Features
+
 Search Tours: Users can search for tours by entering the place, distance, and the number of people they plan to travel with.
 
 User Authentication: To proceed with checkout and leave reviews, users need to log in. If they don't have an account, they can create one.
@@ -11,6 +13,7 @@ Review System: Reviews are stored in a Firestore database. Users can view and le
 Responsive Design: The site is designed to be responsive, ensuring a seamless experience across various devices.
 
 Deployment
+
 The Travel Booking Site is deployed and can be accessed at [Deployed Site URL](https://659f9bb814afdb3fac3e9d54--stupendous-pastelito-639873.netlify.app/).
 
 
